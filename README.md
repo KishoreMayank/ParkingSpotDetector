@@ -1,5 +1,4 @@
-# Verkada Take Home Assessment
-https://docs.google.com/document/d/12WT9kZFEHFlvoOZ0RB_4C7rveeYOH11hvrkIHf6mjxc/edit#
+# ParkingSpotDetector
 
 Need to run to get the RetinaNet model:
 curl -LOk https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
